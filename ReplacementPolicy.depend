@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576961484 source:/home/abdalla/Desktop/ReplacementPolicy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
